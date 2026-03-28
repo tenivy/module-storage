@@ -1,0 +1,12 @@
+[submodule "module-storage"]
+	path = module-storage
+	url = https://github.com/tenivy/module-storage
+[submodule "modules/module-storage"]
+	path = modules/module-storage
+	url = https://github.com/tenivy/module-storage
+[submodule "modules/module-logic"]
+	path = modules/module-logic
+	url = https://github.com/tenivy/module-storage
+[submodule "modules/module-ui"]
+	path = modules/module-ui
+	url = https://github.com/tenivy/module-storage
