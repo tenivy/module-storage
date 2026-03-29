@@ -1,5 +1,5 @@
 # CONTRACT.md
-Модуль: module-service
+Модуль: module-storage
 Проект: TaskManager
 Версия: 1.0
 
